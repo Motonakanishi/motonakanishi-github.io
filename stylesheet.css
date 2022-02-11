@@ -1,4 +1,4 @@
-* {
+d* {
   box-sizing: border-box;
 }
 
@@ -21,7 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(https://raw.githubusercontent.com/Motonakanishi/motonakanishi-github.io/c1a546b9264e1856d6cb127c76f260c35b21f4d0/scenes%20from%20a%20memory.jpg);
   background-size: cover;
-  color: white;
+  color: red;
   text-align: center;
 }
 
